@@ -1,9 +1,146 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "Employee" : [
+    { "id" : "01",
+      "first_name" : "Suneel",
+      "last_name" : "kumar",
+      "emp_number" : "001",
+      "role" : "Developer",
+      "location" : "India"
+    },
+    { "id" : "02",
+      "first_name" : "Bala",
+      "last_name" : "Krishna",
+      "emp_number" : "002",
+      "role" : "Developer",
+      "location" : "India"
+    },
+    { "id" : "03",
+      "first_name" : "Naresh",
+      "last_name" : "Babu",
+      "emp_number" : "003",
+      "role" : "Architect",
+      "location" : "India"
+    },
+    { "id" : "04",
+      "first_name" : "Himanshu",
+      "last_name" : "kumar",
+      "emp_number" : "004",
+      "role" : "Developer",
+      "location" : "India"
+    },
+    { "id" : "05",
+      "first_name" : "Sireesh",
+      "last_name" : "Das",
+      "emp_number" : "005",
+      "role" : "Tester",
+      "location" : "India"
+    },
+    { "id" : "06",
+      "first_name" : "Bhupal",
+      "last_name" : "Shetty",
+      "emp_number" : "006",
+      "role" : "Developer",
+      "location" : "India"
+    },
+    { "id" : "07",
+      "first_name" : "Bharath",
+      "last_name" : "kumar",
+      "emp_number" : "007",
+      "role" : "Tester",
+      "location" : "India"
+    },
+    { "id" : "08",
+      "first_name" : "Vidya",
+      "last_name" : "shankar",
+      "emp_number" : "008",
+      "role" : "Test Engineer",
+      "location" : "India"
+    },
+    { "id" : "09",
+      "first_name" : "vikas",
+      "last_name" : "shetty",
+      "emp_number" : "009",
+      "role" : "Architect",
+      "location" : "India"
+    },
+    { "id" : "10",
+      "first_name" : "Suneel",
+      "last_name" : "M",
+      "emp_number" : "0010",
+      "role" : "Engineer",
+      "location" : "India"
+    },
+    { "id" : "11",
+      "first_name" : "Suresh",
+      "last_name" : "Babu",
+      "emp_number" : "0011",
+      "role" : "Manager",
+      "location" : "India"
+    },
+    { "id" : "12",
+      "first_name" : "Sharma",
+      "last_name" : "Prathap",
+      "emp_number" : "0012",
+      "role" : "Lead",
+      "location" : "India"
+    },
+    { "id" : "13",
+      "first_name" : "Prathap",
+      "last_name" : "kumar",
+      "emp_number" : "0013",
+      "role" : "Architect",
+      "location" : "India"
+    },
+    { "id" : "14",
+      "first_name" : "Sudheep",
+      "last_name" : "kumar",
+      "emp_number" : "0014",
+      "role" : "Lead",
+      "location" : "India"
+    },
+    { "id" : "15",
+      "first_name" : "Siva",
+      "last_name" : "Krishna",
+      "emp_number" : "0015",
+      "role" : "Lead",
+      "location" : "India"
+    },
+    { "id" : "16",
+      "first_name" : "Anil",
+      "last_name" : "kumar",
+      "emp_number" : "0016",
+      "role" : "Engineer",
+      "location" : "India"
+    },
+    { "id" : "17",
+      "first_name" : "Prashanti",
+      "last_name" : "M",
+      "emp_number" : "0017",
+      "role" : "Lead",
+      "location" : "India"
+    },
+    { "id" : "18",
+      "first_name" : "Ammiraju",
+      "last_name" : "K",
+      "emp_number" : "0018",
+      "role" : "Engineer",
+      "location" : "India" 
+    },
+    { "id" : "19",
+      "first_name" : "Sai",
+      "last_name" : "pavan",
+      "emp_number" : "0019",
+      "role" : "Engineer",
+      "location" : "India"
+    },
+    { "id" : "20",
+      "first_name" : "Alok",
+      "last_name" : "vikas",
+      "emp_number" : "0020",
+      "role" : "Architect",
+      "location" : "India"
+    }
+    ]
+  
+  
 }
